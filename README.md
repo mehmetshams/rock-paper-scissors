@@ -13,11 +13,7 @@ any other variation. Do not worry, it will work.
 This is the first functional version and implemented on console. HTML5 User 
 interface will follow to improve user experience.
 
-<<<<<<< HEAD
 **Skills Used**
-=======
-**Skills used**
->>>>>>> 85b4197498b90df9d08100ed6d49afc0450f26fd
 
 Functions
 Window Prompts
