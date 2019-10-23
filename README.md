@@ -1,6 +1,6 @@
 This is a classical ROCK PAPER SCISSORS game implementation using javascript. 
 The game is played entirely using console, and you need to open the index.html
-and Console to play it. Read the docs if you want to know more about how you can
+and Console to play it. Read the [docs](https://developers.google.com/web/tools/chrome-devtools/open) if you want to know more about how you can
 open Console using Developer Tools.
 
 **How to Play**
